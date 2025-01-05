@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70685610461",
+    "project_id": "jayslivestock-c3f77",
+    "storage_bucket": "jayslivestock-c3f77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70685610461:android:675e5210b6c8cd801ca634",
+        "android_client_info": {
+          "package_name": "com.example.scan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCIKVEEuVVoTR8mCVox2WhXSWWuJbTOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
