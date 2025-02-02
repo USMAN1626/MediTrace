@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
                         
   --> Samples Scanned 
 
-<img src="https://github.com/user-attachments/assets/80120c26-657c-45fa-b614-f8b041775945" width="300" height="400" /> 
+<img src="https://github.com/user-attachments/assets/80120c26-657c-45fa-b614-f8b041775945" width="400" height="350" /> 
 <img src="https://github.com/user-attachments/assets/423c2cf7-8821-4b5d-a473-dcef2c6b864b" width="400" height="350" />
 
   --> Firestore Data
